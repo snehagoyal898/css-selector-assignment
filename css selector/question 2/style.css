@@ -1,0 +1,13 @@
+/* first task */
+ul li a{
+    list-style: none;
+    text-decoration: none;
+}
+/* second task */
+ul>li{
+    display: inline;
+}
+/* third task */
+li+li{
+    margin: 15px;
+}
